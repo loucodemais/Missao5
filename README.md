@@ -6,7 +6,7 @@ Nível 5: Colocando tudo em ordem e guardando
 Objetivo:
 Criar um código em python gerar e manipular dados, salvar e ler arquivos de texto, e visualizar os dados nos formatos de histograma e nuvem de palavras.
 
-O código pode ser encontrado em: [Código] (/blob/main/Untitled3.ipynb)
+O código pode ser encontrado em: [Código] (/Untitled3.ipynb)
 
 Resultados da execução:
 
